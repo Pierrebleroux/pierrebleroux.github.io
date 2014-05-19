@@ -1,0 +1,8 @@
+<div class="nav">
+	<div class="brand"><%= name %></div>
+	<ul>
+		<% for (var i=0, size=nav.length; i < size; i++) { %>
+			<li><a href="#<%= nav[i].uri %>"><%= nav[i].title %></a></li>
+		<% } %>
+	</ul>	
+</div>

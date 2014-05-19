@@ -1,0 +1,12 @@
+{
+	"globals": {
+		"title": "Pierre le Roux",
+		"name": "Pierre le Roux",
+		"nav": [
+			{"uri": "about", 		  	"title": "About"},
+			{"uri": "qualifications", 	"title": "Qualifications"},
+			{"uri": "experience",		"title": "Experience"},
+			{"uri": "contact", 			"title": "Contact"}
+		]
+	}
+}
